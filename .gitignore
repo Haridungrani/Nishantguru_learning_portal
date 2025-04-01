@@ -1,0 +1,12 @@
+#Frontend NodeModule
+./Frontend/node_module
+
+#Server node_module
+./Server/node_module
+./Server/TestServer
+node_modules
+.env
+./TestServer
+TestServer
+./Server/.env
+Server/.env
